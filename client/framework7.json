@@ -1,0 +1,18 @@
+{
+  "cwd": "/Users/marinaaverchenkova/Documents/frame7sqlliteform",
+  "type": [
+    "web"
+  ],
+  "name": "test",
+  "framework": "react",
+  "template": "blank",
+  "cssPreProcessor": "less",
+  "bundler": "vite",
+  "theming": {
+    "customColor": true,
+    "color": "#12841C",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
